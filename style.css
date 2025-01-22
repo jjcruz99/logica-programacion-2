@@ -1,0 +1,11 @@
+
+.con-principal{
+    
+    justify-content: center;
+   
+    border: 1px solid black;
+}
+
+.input{
+    display: block;
+}
